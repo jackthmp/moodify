@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.6.0)
+  - SpotifyLogin (0.1.6)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SpotifyLogin (~> 0.1)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  SpotifyLogin: 9cdf82ff13e5f37e5ddc7fd07cf9793a9ebd1124
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: f00c730104729425e8ba54f870d644f8058a9ca9
+
+COCOAPODS: 1.3.1
